@@ -5,7 +5,7 @@
 	alt="GitHub Stats" 
 	height="200" 
 	style="padding-right: 10px;" 
-	src="https://github-readme-stats.vercel.app/api?username=nathandezan&count_private=false&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+	src="https://github-readme-stats.vercel.app/api?username=nathandezan&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
 />
 
 <img 
@@ -17,6 +17,8 @@
 </p>
 </div>
 
+<br>
+<br>
 <br>
 <div>
   <a href="mailto:dezannathan@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
