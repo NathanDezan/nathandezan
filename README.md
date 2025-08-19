@@ -11,7 +11,7 @@
   />
 </div>
 
-<!-- força os ícones abaixo -->
+<br>
 <div style="margin-top: 20px; text-align: center;">
   <a href="mailto:dezannathan@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
